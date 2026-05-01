@@ -1,0 +1,8 @@
+Model,Time (s),Avg CPU (%),Max CPU (%),Pred RAM (MB)
+decision_tree,0.0029,148.6,148.6,0.1367
+k-nn,0.1101,94.93,153.1,1.8164
+random_forest,0.0938,85.81,307.5,1.2617
+logistic_regression,0.0028,148.4,148.4,0.0391
+naive_bayes,0.0027,0.0,0.0,0.0195
+svm_linear,0.003,0.0,0.0,0.0742
+xgboost,0.0138,66.95,133.9,0.8125
